@@ -1,0 +1,30 @@
+192.168.160.88 vbox2-160-173.travelzensh.com vbox2-160-173
+192.168.160.89 vbox3-160-173.travelzensh.com vbox3-160-173
+192.168.160.91 vbox4-160-173.travelzensh.com vbox4-160-173
+192.168.160.92 vbox5-160-173.travelzensh.com vbox5-160-173
+
+192.168.163.184 gerrit.travelzensh.com gerrit.travelzensh.com
+192.168.160.172 proto.b2b.com static.b2b.com static.travelzensh.com proto.travelzensh.com
+
+192.168.161.34 finance.op.com
+192.168.161.36 r.op.com
+192.168.161.38 h.op.com m.op.com
+192.168.161.40 p.op.com
+192.168.161.41 o.op.com
+192.168.161.43 f.op.com
+192.168.161.44 ota.travelzensh.com  msg.op.com  member.travelzensh.com
+
+192.168.161.205 msg.op2.com
+192.168.161.206 finance.op2.com
+192.168.161.209 f.op2.com o.op2.com
+192.168.161.210 r.op2.com h.op2.com
+192.168.161.212 m.op2.com
+192.168.161.213 p.op2.com
+
+192.168.130.89 msg.rc.com
+192.168.130.90 h.rc.com m.rc.com
+192.168.130.91 p.rc.com f.rc.com
+192.168.130.92 o.rc.com
+192.168.130.94 finance.rc.com 
+
+# git push test

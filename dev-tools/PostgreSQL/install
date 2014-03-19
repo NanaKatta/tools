@@ -1,0 +1,2 @@
+cd tz/tz-dev/PostgreSQL
+sudo ./postgresql-9.2.4-1-linux-x64.run
